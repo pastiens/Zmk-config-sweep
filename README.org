@@ -2,6 +2,8 @@
 
 [[./README-zh_CN.org][中文]] | English
 
+https://nickcoutsos.github.io/keymap-editor/ for edition
+
 * Quick Start
 
 ** flash new firmware
